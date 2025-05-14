@@ -52,7 +52,7 @@
   max-width: 415px;
 }
 
-.content__title {
+.profile__name {
   grid-column: 1 / 7;
   margin: 0;
   font-size: 40px;
@@ -60,7 +60,7 @@
   padding-top: 22px;
 }
 
-.content__subtitle {
+.profile__about {
   grid-column: 1 / 5;
   grid-row: 2;
   margin: 0;
@@ -69,7 +69,7 @@
   font-family: 'Inter-Regular';
 }
 
-.content__edit_button {
+.content__info_edit_button {
   grid-column: 7;
   width: 24px;
   height: 24px;
@@ -83,7 +83,7 @@
   border-width: thin;
 }
 
-.content__edit_button:hover {
+.content__info_edit_button:hover {
   border-color: rgba(0, 0, 0, 0.8);
 }
 
@@ -116,11 +116,11 @@
     width: 80%;
   }
 
-  .content__title {
+  .profile__name {
     font-size: 25px;
   }
 
-  .content__edit_button {
+  .content__info_edit_button {
     align-self: center;
   }
 }
@@ -154,15 +154,15 @@
     width: 90%;
   }
 
-  .content__title {
+  .profile__name {
     font-size: 20px;
   }
 
-  .content__subtitle {
+  .profile__about {
     font-size: 15px;
   }
 
-  .content__edit_button {
+  .content__info_edit_button {
     align-self: center;
   }
 }
