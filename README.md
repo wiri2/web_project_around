@@ -6,7 +6,7 @@ Realizado con HTML5, CSS, JavaScript, Responsive Design.
 
 Se espera implementar algunas funciones con JS en el futuro.
 
-Link de Github pages para visualizar mi pagina:
+Link de Github pages para visualizar mi pagina:https://wiri2.github.io/web_project_around/index.html
 
 © Wilman Rivera Rios
 
